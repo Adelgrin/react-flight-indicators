@@ -50,5 +50,7 @@
   "files": [
     "dist"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "react-flight-indicators": "file:"
+  }
 }
